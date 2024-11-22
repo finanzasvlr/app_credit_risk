@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Configura la URL de tu API (ajusta según tu servidor)
-API_URL = "https://balanced-courage-production-55b7.up.railway.app"
+API_URL = "https://appcreditrisk-production-50b2.up.railway.app/capture/"
 API_URL_PREDICT = "https://appcreditrisk-production.up.railway.app/features/predict_and_explain/"
 
 # Configurar navegación en la barra lateral
